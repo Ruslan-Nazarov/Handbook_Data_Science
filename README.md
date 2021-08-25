@@ -1,4 +1,4 @@
-# papanda
+# Методичка по Data Science
 
 Методичка по Data Science
 
